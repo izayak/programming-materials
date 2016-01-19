@@ -1,2 +1,3 @@
 # programming-materials
-Materials for Python/R/Latex/etc.
+Materials for learning Python/R/Latex/etc.
+Also resources about finding a job.
